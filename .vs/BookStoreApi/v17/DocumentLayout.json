@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\5573\\Downloads\\BookStoreApi\\BookStoreApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{967C9749-BC27-4169-87FC-25A6E9B5C930}|BookStoreApi.csproj|c:\\users\\5573\\downloads\\bookstoreapi\\bookstoreapi\\businesslayer\\bookbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{967C9749-BC27-4169-87FC-25A6E9B5C930}|BookStoreApi.csproj|solutionrelative:businesslayer\\bookbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{967C9749-BC27-4169-87FC-25A6E9B5C930}|BookStoreApi.csproj|c:\\users\\5573\\downloads\\bookstoreapi\\bookstoreapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{967C9749-BC27-4169-87FC-25A6E9B5C930}|BookStoreApi.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{967C9749-BC27-4169-87FC-25A6E9B5C930}|BookStoreApi.csproj|c:\\users\\5573\\downloads\\bookstoreapi\\bookstoreapi\\dataaccesslayer\\bookdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{967C9749-BC27-4169-87FC-25A6E9B5C930}|BookStoreApi.csproj|solutionrelative:dataaccesslayer\\bookdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{967C9749-BC27-4169-87FC-25A6E9B5C930}|BookStoreApi.csproj|c:\\users\\5573\\downloads\\bookstoreapi\\bookstoreapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{967C9749-BC27-4169-87FC-25A6E9B5C930}|BookStoreApi.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{967C9749-BC27-4169-87FC-25A6E9B5C930}|BookStoreApi.csproj|c:\\users\\5573\\downloads\\bookstoreapi\\bookstoreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{967C9749-BC27-4169-87FC-25A6E9B5C930}|BookStoreApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\5573\\Downloads\\BookStoreApi\\BookStoreApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\5573\\Downloads\\BookStoreApi\\BookStoreApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T08:36:57.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\5573\\Downloads\\BookStoreApi\\BookStoreApi\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\5573\\Downloads\\BookStoreApi\\BookStoreApi\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Controllers\\BooksController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T05:33:28.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookBL.cs",
+              "DocumentMoniker": "C:\\Users\\5573\\Downloads\\BookStoreApi\\BookStoreApi\\BusinessLayer\\BookBL.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\BookBL.cs",
+              "ToolTip": "C:\\Users\\5573\\Downloads\\BookStoreApi\\BookStoreApi\\BusinessLayer\\BookBL.cs",
+              "RelativeToolTip": "BusinessLayer\\BookBL.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T05:26:30.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookDAL.cs",
+              "DocumentMoniker": "C:\\Users\\5573\\Downloads\\BookStoreApi\\BookStoreApi\\DataAccessLayer\\BookDAL.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\BookDAL.cs",
+              "ToolTip": "C:\\Users\\5573\\Downloads\\BookStoreApi\\BookStoreApi\\DataAccessLayer\\BookDAL.cs",
+              "RelativeToolTip": "DataAccessLayer\\BookDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T05:12:12.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\5573\\Downloads\\BookStoreApi\\BookStoreApi\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "C:\\Users\\5573\\Downloads\\BookStoreApi\\BookStoreApi\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T05:08:05.557Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
