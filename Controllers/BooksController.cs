@@ -8,7 +8,12 @@ namespace BookStoreApi.Controllers
     [ApiController]
     public class BooksController : Controller
     {
-        private readonly BookBL bookBL = new BookBL();
+        private readonly BookBL bookBL;
+
+        public BooksController(BookBL bookBL)
+        {
+            this.bookBL = bookBL;
+        }
 
         // GET: api/Books
         [HttpGet]

@@ -4,7 +4,13 @@ namespace BookStoreApi.BusinessLayer
 {
     public class BookBL
     {
-        private readonly BookDAL bookDAL = new BookDAL();
+
+        private readonly BookDAL bookDAL;
+
+        public BookBL(BookDAL bookDAL)
+        {
+            this.bookDAL = bookDAL;
+        }
         public List<Book> GetBooks()
         {
             return bookDAL.GetBooks();

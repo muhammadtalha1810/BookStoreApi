@@ -1,3 +1,6 @@
+using BookStoreApi.BusinessLayer;
+using BookStoreApi.DataAccessLayer;
+
 var MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
 
 var builder = WebApplication.CreateBuilder(args);
@@ -15,6 +18,9 @@ builder.Services.AddCors(options =>
 // Add services to the container.
 
 builder.Services.AddControllers();
+builder.Services.AddSingleton<BookDAL>();
+builder.Services.AddScoped<BookBL>();
+builder.Configuration.AddJsonFile("appsettings.json", optional: false, reloadOnChange: true);
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
