@@ -50,8 +50,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-26T07:05:07.326Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-26T07:05:07.326Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAAAAEAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T08:36:57.997Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T08:36:57.997Z"
             },
             {
               "$type": "Document",
@@ -74,7 +72,7 @@
               "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
               "ToolTip": "C:\\Users\\5573\\Downloads\\BookStoreApi\\BookStoreApi\\Controllers\\BooksController.cs",
               "RelativeToolTip": "Controllers\\BooksController.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAgwCYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-21T05:33:28.049Z",
               "EditorCaption": ""
@@ -89,8 +87,7 @@
               "RelativeToolTip": "BusinessLayer\\BookBL.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T05:26:30.996Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T05:26:30.996Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "DataAccessLayer\\BookDAL.cs",
               "ViewState": "AQIAAB8AAAAAAAAAAADgvygAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T05:12:12.577Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T05:12:12.577Z"
             },
             {
               "$type": "Document",
@@ -115,8 +111,7 @@
               "RelativeToolTip": "Models\\Book.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T05:08:05.557Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T05:08:05.557Z"
             }
           ]
         }
