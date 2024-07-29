@@ -2118,11 +2118,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\5573\\Downloads\\BookStoreApi\\BookStoreApi\\BookStoreApi.csproj",
+      "projectUniqueName": "C:\\Users\\5573\\Desktop\\Assignments\\BookStoreApi\\BookStoreApi.csproj",
       "projectName": "BookStoreApi",
-      "projectPath": "C:\\Users\\5573\\Downloads\\BookStoreApi\\BookStoreApi\\BookStoreApi.csproj",
+      "projectPath": "C:\\Users\\5573\\Desktop\\Assignments\\BookStoreApi\\BookStoreApi.csproj",
       "packagesPath": "C:\\Users\\5573\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\5573\\Downloads\\BookStoreApi\\BookStoreApi\\obj\\",
+      "outputPath": "C:\\Users\\5573\\Desktop\\Assignments\\BookStoreApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\5573\\AppData\\Roaming\\NuGet\\NuGet.Config",

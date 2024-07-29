@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\5573\\Downloads\\BookStoreApi\\BookStoreApi\\",
+  "WorkspaceRootPath": "C:\\Users\\5573\\Desktop\\Assignments\\BookStoreApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{967C9749-BC27-4169-87FC-25A6E9B5C930}|BookStoreApi.csproj|c:\\users\\5573\\downloads\\bookstoreapi\\bookstoreapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{967C9749-BC27-4169-87FC-25A6E9B5C930}|BookStoreApi.csproj|c:\\users\\5573\\desktop\\assignments\\bookstoreapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{967C9749-BC27-4169-87FC-25A6E9B5C930}|BookStoreApi.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{967C9749-BC27-4169-87FC-25A6E9B5C930}|BookStoreApi.csproj|c:\\users\\5573\\downloads\\bookstoreapi\\bookstoreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{967C9749-BC27-4169-87FC-25A6E9B5C930}|BookStoreApi.csproj|c:\\users\\5573\\desktop\\assignments\\bookstoreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{967C9749-BC27-4169-87FC-25A6E9B5C930}|BookStoreApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{967C9749-BC27-4169-87FC-25A6E9B5C930}|BookStoreApi.csproj|c:\\users\\5573\\downloads\\bookstoreapi\\bookstoreapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{967C9749-BC27-4169-87FC-25A6E9B5C930}|BookStoreApi.csproj|c:\\users\\5573\\desktop\\assignments\\bookstoreapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{967C9749-BC27-4169-87FC-25A6E9B5C930}|BookStoreApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{967C9749-BC27-4169-87FC-25A6E9B5C930}|BookStoreApi.csproj|c:\\users\\5573\\downloads\\bookstoreapi\\bookstoreapi\\dataaccesslayer\\bookdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{967C9749-BC27-4169-87FC-25A6E9B5C930}|BookStoreApi.csproj|c:\\users\\5573\\desktop\\assignments\\bookstoreapi\\dataaccesslayer\\bookdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{967C9749-BC27-4169-87FC-25A6E9B5C930}|BookStoreApi.csproj|solutionrelative:dataaccesslayer\\bookdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{967C9749-BC27-4169-87FC-25A6E9B5C930}|BookStoreApi.csproj|c:\\users\\5573\\downloads\\bookstoreapi\\bookstoreapi\\businesslayer\\bookbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{967C9749-BC27-4169-87FC-25A6E9B5C930}|BookStoreApi.csproj|c:\\users\\5573\\desktop\\assignments\\bookstoreapi\\businesslayer\\bookbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{967C9749-BC27-4169-87FC-25A6E9B5C930}|BookStoreApi.csproj|solutionrelative:businesslayer\\bookbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{967C9749-BC27-4169-87FC-25A6E9B5C930}|BookStoreApi.csproj|c:\\users\\5573\\downloads\\bookstoreapi\\bookstoreapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{967C9749-BC27-4169-87FC-25A6E9B5C930}|BookStoreApi.csproj|c:\\users\\5573\\desktop\\assignments\\bookstoreapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{967C9749-BC27-4169-87FC-25A6E9B5C930}|BookStoreApi.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -44,9 +44,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\5573\\Downloads\\BookStoreApi\\BookStoreApi\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\5573\\Desktop\\Assignments\\BookStoreApi\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\5573\\Downloads\\BookStoreApi\\BookStoreApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\5573\\Desktop\\Assignments\\BookStoreApi\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -56,9 +56,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\5573\\Downloads\\BookStoreApi\\BookStoreApi\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\5573\\Desktop\\Assignments\\BookStoreApi\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\5573\\Downloads\\BookStoreApi\\BookStoreApi\\Program.cs",
+              "ToolTip": "C:\\Users\\5573\\Desktop\\Assignments\\BookStoreApi\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAAAAEAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -68,11 +68,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "BooksController.cs",
-              "DocumentMoniker": "C:\\Users\\5573\\Downloads\\BookStoreApi\\BookStoreApi\\Controllers\\BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\5573\\Desktop\\Assignments\\BookStoreApi\\Controllers\\BooksController.cs",
               "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
-              "ToolTip": "C:\\Users\\5573\\Downloads\\BookStoreApi\\BookStoreApi\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\5573\\Desktop\\Assignments\\BookStoreApi\\Controllers\\BooksController.cs",
               "RelativeToolTip": "Controllers\\BooksController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-21T05:33:28.049Z",
               "EditorCaption": ""
@@ -81,9 +81,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "BookBL.cs",
-              "DocumentMoniker": "C:\\Users\\5573\\Downloads\\BookStoreApi\\BookStoreApi\\BusinessLayer\\BookBL.cs",
+              "DocumentMoniker": "C:\\Users\\5573\\Desktop\\Assignments\\BookStoreApi\\BusinessLayer\\BookBL.cs",
               "RelativeDocumentMoniker": "BusinessLayer\\BookBL.cs",
-              "ToolTip": "C:\\Users\\5573\\Downloads\\BookStoreApi\\BookStoreApi\\BusinessLayer\\BookBL.cs",
+              "ToolTip": "C:\\Users\\5573\\Desktop\\Assignments\\BookStoreApi\\BusinessLayer\\BookBL.cs",
               "RelativeToolTip": "BusinessLayer\\BookBL.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -93,9 +93,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "BookDAL.cs",
-              "DocumentMoniker": "C:\\Users\\5573\\Downloads\\BookStoreApi\\BookStoreApi\\DataAccessLayer\\BookDAL.cs",
+              "DocumentMoniker": "C:\\Users\\5573\\Desktop\\Assignments\\BookStoreApi\\DataAccessLayer\\BookDAL.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\BookDAL.cs",
-              "ToolTip": "C:\\Users\\5573\\Downloads\\BookStoreApi\\BookStoreApi\\DataAccessLayer\\BookDAL.cs",
+              "ToolTip": "C:\\Users\\5573\\Desktop\\Assignments\\BookStoreApi\\DataAccessLayer\\BookDAL.cs",
               "RelativeToolTip": "DataAccessLayer\\BookDAL.cs",
               "ViewState": "AQIAAB8AAAAAAAAAAADgvygAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -105,9 +105,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\5573\\Downloads\\BookStoreApi\\BookStoreApi\\Models\\Book.cs",
+              "DocumentMoniker": "C:\\Users\\5573\\Desktop\\Assignments\\BookStoreApi\\Models\\Book.cs",
               "RelativeDocumentMoniker": "Models\\Book.cs",
-              "ToolTip": "C:\\Users\\5573\\Downloads\\BookStoreApi\\BookStoreApi\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\5573\\Desktop\\Assignments\\BookStoreApi\\Models\\Book.cs",
               "RelativeToolTip": "Models\\Book.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

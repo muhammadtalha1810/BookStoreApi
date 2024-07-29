@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M5bOJ8YCgls=",
+  "dgSpecHash": "llS7KPdKoUQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\5573\\Downloads\\BookStoreApi\\BookStoreApi\\BookStoreApi.csproj",
+  "projectFilePath": "C:\\Users\\5573\\Desktop\\Assignments\\BookStoreApi\\BookStoreApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\5573\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\5573\\.nuget\\packages\\azure.identity\\1.11.3\\azure.identity.1.11.3.nupkg.sha512",
