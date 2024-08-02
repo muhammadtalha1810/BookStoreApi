@@ -16,7 +16,8 @@ namespace BookStoreApi.DataAccessLayer
             new Book { Id = 1, Title = "A Year Of Last Things", Author = "Michael Ondaatje", Price = "Rs 3,495.00", ImageUrl = "./images/img4.jpg" },
             new Book { Id = 2, Title = "A Fate Inked In Blood", Author = "Danielle L. Jensen", Price = "Rs 3,495.00", ImageUrl = "./images/img5.jpg" },
             new Book { Id = 3, Title = "The Big Fail", Author = "Bethany McLean", Price = "Rs 4,295.00", ImageUrl = "./images/img6.jpg" },
-            new Book { Id = 4, Title = "Stand Up Straight", Author = "Paul Nanson", Price = "Rs 3,095.00", ImageUrl = "./images/img7.jpg" },
+            new Book { Id = 4, Title = "Stan
+       d Up Straight", Author = "Paul Nanson", Price = "Rs 3,095.00", ImageUrl = "./images/img7.jpg" },
             new Book { Id = 5, Title = "The Everything Token", Author = "Steve Kaczynski", Price = "Rs 3,995.00", ImageUrl = "./images/img8.jpg" },
             new Book { Id = 6, Title = "Impossible Monsters", Author = "Michael Taylor", Price = "Rs 3,995.00", ImageUrl = "./images/img9.jpg" },
             new Book { Id = 7, Title = "The Girl Who Wasn't There", Author = "Jacqueline Wilson", Price = "Rs 3,095.00", ImageUrl = "./images/img10.jpg" },
