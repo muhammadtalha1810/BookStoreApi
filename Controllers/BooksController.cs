@@ -23,6 +23,14 @@ namespace BookStoreApi.Controllers
             return Ok(books);
         }
 
+        // GET: api/Books/search/The
+        [HttpGet("search/{keyword}")]
+        public ActionResult<IEnumerable<Book>> GetBooks(string keyword)
+        {
+            var books = bookBL.GetBooks(keyword);
+            return Ok(books);
+        }
+
         // GET: api/Books/3
         [HttpGet("{id}")]
         public ActionResult<Book> GetBook(int id)

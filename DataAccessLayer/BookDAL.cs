@@ -60,6 +60,43 @@ namespace BookStoreApi.DataAccessLayer
             return books;
         }
 
+
+        public List<Book> GetBooks(string keyword)
+        {
+            var books = new List<Book>();
+
+            using (SqlConnection conn = new SqlConnection(_connectionString))
+            {
+                SqlCommand cmd = new SqlCommand("GetBooksbyKeyword", conn)
+                {
+                    CommandType = CommandType.StoredProcedure
+                };
+                cmd.Parameters.AddWithValue("@Keyword", keyword);
+
+                conn.Open();
+                using (SqlDataReader reader = cmd.ExecuteReader())
+                {
+                    while (reader.Read())
+                    {
+                        var book = new Book
+                        {
+                            Id = (int)reader["Id"],
+                            Title = reader["Title"].ToString(),
+                            Author = reader["Author"].ToString(),
+                            Price = (decimal)reader["Price"],
+                            ImageUrl = reader["ImageUrl"].ToString()
+                        };
+
+                        books.Add(book);
+                    }
+                }
+            }
+
+            return books;
+        }
+
+
+
         public Book GetBook(int id)
         {
             Book book = null;

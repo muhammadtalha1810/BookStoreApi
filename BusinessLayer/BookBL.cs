@@ -16,6 +16,11 @@ namespace BookStoreApi.BusinessLayer
             return bookDAL.GetBooks();
         }
 
+        public List<Book> GetBooks(string keyword)
+        {
+            return bookDAL.GetBooks(keyword);
+        }
+
         public Book GetBook(int id)
         {
             return bookDAL.GetBook(id);
